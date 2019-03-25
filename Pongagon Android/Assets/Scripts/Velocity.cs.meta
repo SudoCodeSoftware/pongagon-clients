@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3597005cee9960342939b377c9353ce1
+timeCreated: 1446708878
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ten: {instanceID: 0}
+  - neg_ten: {instanceID: 0}
+  - twenty: {instanceID: 0}
+  - Bounce: {fileID: 8300000, guid: f43d72897b9544ff794761aae2d18c53, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
